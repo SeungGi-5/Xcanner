@@ -1,4 +1,0 @@
-requests
-tzdata
-pycryptodome
-frida-tools
